@@ -1,5 +1,5 @@
 {
-    "name": "semaforo expotomas",
+    "name": "semaforoColegioTC_receive",
     "description": "",
     "dependencies": {
         "core": "*",
